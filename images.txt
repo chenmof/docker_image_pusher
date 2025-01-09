@@ -1,1 +1,1 @@
-eicweb/juggler
+somta/juggle:v1.2.3
