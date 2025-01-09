@@ -1,1 +1,1 @@
-somta/juggle:latest
+somta/juggle
