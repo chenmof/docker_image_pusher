@@ -1,1 +1,1 @@
-deepdiver/docker-oracle-xe-11g
+oracleinanutshell/oracle-xe-11g
