@@ -1,1 +1,1 @@
-jaspeen/oracle-11g
+wnameless/oracle-xe-11g
