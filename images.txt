@@ -1,1 +1,1 @@
-oracleinanutshell/oracle-xe-11g
+ mysql:5.7
