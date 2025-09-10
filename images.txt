@@ -1,1 +1,1 @@
-webcenter/activemq:5.18.3
+apache/activemq-classic:5.18.7
