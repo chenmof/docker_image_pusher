@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/zhangjunfan/indics-be
+thingsboard/openjdk8
