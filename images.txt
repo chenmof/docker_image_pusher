@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.26
+apache/skywalking-oap-server:9.7.0
