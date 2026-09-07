@@ -1,1 +1,1 @@
-apache/skywalking-ui:9.7.0
+apache/skywalking-java-agent:9.7.0
