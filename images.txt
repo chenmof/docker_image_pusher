@@ -1,2 +1,1 @@
---platform linux/arm64 arm64v8/redis:latest
---platform linux/arm64 arm64v8/mongo:6.0
+arm64v8/python:3.7
