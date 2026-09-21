@@ -1,1 +1,2 @@
---platform linux/arm64 nginx
+--platform linux/arm64 arm64v8/redis:latest
+--platform linux/arm64 arm64v8/mongo:6.0
