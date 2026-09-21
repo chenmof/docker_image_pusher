@@ -1,1 +1,1 @@
---platform=linux/arm64 arm64v8/openjdk:8
+--platform linux/arm64 apache/activemq-classic:5.18.7
