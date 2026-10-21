@@ -1,1 +1,1 @@
-apache/activemq-classic:5.19.10
+apache/activemq:5.19.11
